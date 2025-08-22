@@ -1,8 +1,8 @@
 # 🧑🏾‍💻 Flauber Sauan 
-##### 💻 Estudante do IFRN 3º ano e aspirante  a desenvolvedor web.
-##### 🧩 Gosto de treinar, estudar e digamos que um pouco de futebol.
-##### 🧠 Sempre busco melhorar e entender o motivo das coisas acontecerem.
-##  ⚙️ Linguagens e Tecnologias
+-  💻 Estudante do IFRN 3º ano e aspirante  a desenvolvedor web.
+-  🧩 Gosto de treinar, estudar e digamos que um pouco de futebol.
+-  🧠 Sempre busco melhorar e entender o motivo das coisas acontecerem.
+  ## ⚙️ Linguagens e Tecnologias
 
 <img 
     align="left" 
