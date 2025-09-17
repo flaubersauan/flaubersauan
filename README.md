@@ -1,5 +1,5 @@
 # 🧑🏾‍💻 Flauber Sauan 
--  💻 Estudante do IFRN 3º ano e aspirante  a desenvolvedor web.
+-  💻 Estudante do IFRN 3º ano
 -  🧩 Gosto de treinar, estudar e digamos que um pouco de futebol.
 -  🧠 Sempre busco melhorar e entender o motivo das coisas acontecerem.
   ## ⚙️ Linguagens e Tecnologias
